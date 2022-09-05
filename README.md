@@ -1,19 +1,17 @@
 # FitLit
 
 ## Introduction
--  Fitness tracker site called FitLit where a user can track all of their activities in once place.  A user is able to see their daily step goals in comparison to other users.  They are also able to track sleep habits and water intake in one convenient place.
+-  This project was a group assignment for Turing School of Software and Design's Front End Module 2. We created a fitness tracker site called FitLit where a user can track all of their activities in once place.  A user is able to see their daily step goals in comparison to other users.  They are also able to track sleep habits and water intake in one convenient place.
 
 ## Technologies
 - JavaScript
 - HTML
 - CSS
-- Mocha & Chai
+- TDD (Mocha & Chai)
 - Webpack
 
 ## Illustrations
-- FitLit in action:
-![new fitlit gif](https://user-images.githubusercontent.com/99753561/188340724-158af882-40dc-47f6-a49a-73934fd831ab.gif)
-
+- Placeholder of GIF of app functionality
 
 ## Features
 - Display a user's data and compares their daily step goals to the average steps goals of users.
@@ -21,11 +19,11 @@
 - Allows a user to track sleep goals and hydration goals.
 
 ## Possible Future Extensions
-- Dashboard display for admin view. Create new HTML page that shows the data and trends from all users.
+- Placeholder
 
 ## Challenges
 - Understanding the overall vastness of this project since it is significantly more complex than anything we have done during this program.
-- Navigating the class to class interactions once classes and tests were written.
+- Navigating the class to class interations once classes and tests were written. 
 
 ## Sources
 - [MDN](https://developer.mozilla.org/en-US/)
@@ -37,7 +35,7 @@
 - [Carissa Gross](https://github.com/carissagross)
 
 ## Project Spec
-- The details of this project are outlined [HERE](http://frontend.turing.io/projects/fitlit.html).
+- The details of this project are outline in [HERE](http://frontend.turing.io/projects/fitlit.html).
 
 ## Setup
 1. Fork this repo
