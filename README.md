@@ -11,7 +11,9 @@
 - Webpack
 
 ## Illustrations
-- Placeholder of GIF of app functionality
+- FitLit in action:
+![new fitlit gif](https://user-images.githubusercontent.com/99753561/188340724-158af882-40dc-47f6-a49a-73934fd831ab.gif)
+
 
 ## Features
 - Display a user's data and compares their daily step goals to the average steps goals of users.
