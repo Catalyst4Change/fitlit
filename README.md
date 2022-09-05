@@ -9,6 +9,7 @@
 - CSS
 - Mocha & Chai
 - Webpack
+- Charts.js
 
 ## Illustrations
 - FitLit in action:
